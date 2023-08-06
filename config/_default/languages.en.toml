@@ -1,0 +1,28 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "datashard"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  copyright = "©️ Datashard 2023"
+
+[author]
+  name = "datashard"
+  image = "img/author.jpg"
+  headline = "Software Engineer & UI Designer"
+  bio = "digital sorcerer & pixel wizard"
+  links = [
+     { envelope = "mailto:data@shard.wtf" },
+     { email = "https://shard.wtf/bluesky" },
+     { mastodon = "https://corteximplant.com/@j" },
+     { dribbble = "https://shard.wtf/dribbble" },
+     { github = "https://github.com/datashard" },
+     { twitter = "https://shard.wtf/twitter" },
+  ]
