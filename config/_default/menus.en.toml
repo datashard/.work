@@ -12,7 +12,7 @@
 
 [[main]]
    name = "Portfolio"
-   url = "https://shard.wtf/dribbble"
+   pageRef = "/portfolio"
    weight = 1
    
 [[main]]
