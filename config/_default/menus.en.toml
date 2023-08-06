@@ -10,11 +10,15 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-
 [[main]]
    name = "Portfolio"
    url = "https://shard.wtf/dribbble"
-
+   weight = 1
+   
+[[main]]
+   name = "About"
+   pageRef = "about"
+   weight = 2
 
 #[[main]]
 #  name = "Blog"

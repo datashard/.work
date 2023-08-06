@@ -10,8 +10,8 @@ title = "datashard"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  copyright = "©️ Datashard 2023"
+  description = "Software Engineer & UI Designer"
+  copyright = "©️ 2023 datashard.work"
 
 [author]
   name = "datashard"
