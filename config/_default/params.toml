@@ -15,7 +15,7 @@ enableCodeCopy = false
 # mainSections = ["section1", "section2"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageOptimization = false
 
 defaultBackgroundImage = "background.png" # used as default for background images 
 defaultFeaturedImage = "knabe_car.jpg" # used as default for featured images in all articles
@@ -55,7 +55,7 @@ defaultFeaturedImage = "knabe_car.jpg" # used as default for featured images in 
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   editURL = "https://github.com/datashard/.work/"
@@ -106,7 +106,7 @@ defaultFeaturedImage = "knabe_car.jpg" # used as default for featured images in 
 [term]
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showViews = false
   showLikes = false
   showTableOfContents = true

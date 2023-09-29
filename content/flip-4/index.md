@@ -1,9 +1,8 @@
 ---
 title: "My Experience with the Samsung Galaxy Z Flip 4"
 description: "This is an Opinion Piece about my Experience with the Samsung Galaxy Z Flip 4, which I rented from Grover for a few Months."
-summary: "My Experience with the Samsung Galaxy Z Flip 4    "
-date: 2023-09-29
-draft: true
+summary: "My Experience with the Samsung Galaxy Z Flip 4"
+date: "2023-09-29"
 tags: ["review", "phone"]
 sharingLinks: ["twitter", "email", "telegram"]
 ---
