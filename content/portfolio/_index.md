@@ -1,6 +1,9 @@
 ---
 title: "Work"
-description: "Links to my Dribbble Shots, of things I've worked on in the Past"
+description: "Off-Site Links to Websites I have worked on and Dribbble Shots of UIs I've Designed"
+groupByYear: false
 ---
 
-#### Links to Websites I've worked on and Links to the Dribbble Shots of my Designs
+Off-Site Links to Websites I have worked on and Dribbble Shots of UIs I've Designed
+
+<br/>

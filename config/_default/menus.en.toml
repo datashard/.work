@@ -12,18 +12,18 @@
 
 [[main]]
    name = "Portfolio"
-   pageRef = "/portfolio"
-   weight = 1
+   pageRef = "portfolio"
+   weight = 100000000
    
 [[main]]
    name = "About"
    pageRef = "about"
-   weight = 2
+   weight = 1000000000
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+ name = "Tags"
+ pageRef = "tags"
+ weight = 1
 
 #[[main]]
 #  name = "Parent"
