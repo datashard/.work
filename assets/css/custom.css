@@ -1,8 +1,0 @@
-@font-face {
-  font-family: "Flachbau";
-  src: url("/fonts/Flachbau.ttf");
-}
-
-html {
-  font-family: "Flachbau", sans-serif;
-}
